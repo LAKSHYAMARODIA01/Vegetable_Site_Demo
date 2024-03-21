@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background-image: url(/vf.webp);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    margin-top: 2px;
+}
+
+.navbar{
+    margin-top: 10px;
+}
+#Service{
+    color: green;
+}
+a{
+    display:inline;
+    margin-top:10px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.search{
+    display: flex;
+    justify-content: right;
+    padding: 10px;
+    margin-top: -30px;
+}
+
+.div1
+{
+    margin-bottom:20px;
+    margin-top:10px;
+}
+.green
+{
+    color:green;
+    margin-top: 20px;
+    text-align: center;
+}
+.center
+{
+    text-align:center;
+    margin-bottom:50px;
+    margin-top: 30px;
+    margin-left: 10px;
+    color: red;
+}
+.div5
+{
+    display:inline;
+    padding: 20px;
+}
+.div4
+{
+display:flex;
+margin-right:40px;
+margin-top: -30px;
+}
+.div6
+{
+    margin-top:40px;
+}
+.div7
+{
+    margin-top:40px;
+}
+.img
+{
+    height:220px;
+    width:280px;
+}
+#img{
+    border:2px solid white;
+    display:inline-block;
+    margin-right:25px;
+    margin-bottom:40px;
+}
+.h2
+{
+    color:green;
+    margin-right: 40px;
+}
+.div8
+{
+    display:flex;
+    background-color:black;
+    
+}
+.p
+{
+    color:white;
+    padding: 5px;
+}
+.div9
+{
+    display:inline;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+.div10
+{
+    display:inline;
+    margin-left:180px;
+    margin-bottom: 50px;
+}
+.div11{
+    
+    display:inline;
+    margin-left:250px;
+    margin-bottom: 50px;
+}
+
+.div12
+{
+    display:flex;
+    background-color:black;
+    justify-content: center;
+    border-top: 1px solid white;
+    
+}
+
+.small{
+    height: 30px;
+    margin-top: 10px;
+}
